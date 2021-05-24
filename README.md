@@ -30,14 +30,14 @@ For a normal user, you just need a **Browser** to open it as a site and track al
 >We suggest chrome, mozilla firefox or edge.
 
 ## Process Flow
-![Process flow](https://github.com/IjlalAhmad845/EyantraHackathon-CovidMe-WebApp/blob/main/public/images/ProcessFlow.jpg)
+![Process flow](https://github.com/IjlalAhmad845/EyantraHackathon-CovidMe-WebApp/blob/main/public/images/ProcessFlow.jpeg)
 
 From the diagram we can see when you select one of the four options from **Find your needs** section , the process will take you to the city selection page where you choose your desired city from where you want to fetch the information then it show all the relevant **tweets** from that city. The **Process Flow** further asks whether you want to fetch more tweets from the same city then it will refresh the page with new tweets.
 For every Selection from the choices of Four you have to go back the **Home Screen**.
 >Note:- You can also go back to the Homepage From above **Covid Me button**
 
 ## Data Flow Diagram
-![Data Flow Diagram](https://github.com/IjlalAhmad845/EyantraHackathon-CovidMe-WebApp/blob/main/public/images/DataFlow.jpg)
+![Data Flow Diagram](https://github.com/IjlalAhmad845/EyantraHackathon-CovidMe-WebApp/blob/main/public/images/DataFlow.jpeg)
 
 ## Additional Information from developers
 If you want to make changes in this Project, you must have Installed following software in your PC.
